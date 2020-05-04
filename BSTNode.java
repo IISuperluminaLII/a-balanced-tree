@@ -1,5 +1,3 @@
-package src.edu.iastate.cs228.hw5;
-
 import src.edu.iastate.cs228.hw5.ABTreeSet.Node;
 
 public interface BSTNode<E> {
