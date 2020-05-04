@@ -1,7 +1,5 @@
-package src.edu.iastate.cs228.hw5;
-
-import src.edu.iastate.cs228.hw5.ABTreeMap.Entry;
-import src.edu.iastate.cs228.hw5.ABTreeSet.Node;
+import ABTreeMap.Entry;
+import ABTreeSet.Node;
 
 public class ABTest {
 	
